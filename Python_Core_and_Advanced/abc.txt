@@ -1,0 +1,14 @@
+08/08/2024 06:03:34 AM Debug information
+08/08/2024 06:03:34 AM Info Information
+08/08/2024 06:03:34 AM Warning information
+08/08/2024 06:03:34 AM Error Information
+08/08/2024 06:03:34 AM Critical Information
+08/08/2024 06:03:34 AM ********************************************
+08/08/2024 06:03:34 AM New request is coming
+08/08/2024 06:03:40 AM invalid literal for int() with base 10: 'ten'
+Traceback (most recent call last):
+  File "D:\QC20_Python_SDET\Python_Core_and_Advanced\Logging.py", line 25, in <module>
+    y=int(input("Enter the Snumber"))
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'ten'
+08/08/2024 06:03:40 AM Request Processing is completed
